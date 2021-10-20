@@ -1,0 +1,272 @@
+[x] Opening connection to 47.101.38.213 on port 60709
+[x] Opening connection to 47.101.38.213 on port 60709: Trying 47.101.38.213
+[+] Opening connection to 47.101.38.213 on port 60709: Done
+[DEBUG] Received 0x836 bytes:
+    b'\n'
+    b' .d8888b.            .d8888b.                                   .d8888b.   .d8888b.   .d8888b.   d888   \n'
+    b'd88P  Y88b          d88P  Y88b                                 d88P  Y88b d88P  Y88b d88P  Y88b d8888   \n'
+    b'888    888          888    888                                        888 888    888        888   888   \n'
+    b'888    888 888  888 888         8888b.  88888b.d88b.   .d88b.       .d88P 888    888      .d88P   888   \n'
+    b'888    888 `Y8bd8P\' 888  88888     "88b 888 "888 "88b d8P  Y8b  .od888P"  888    888  .od888P"    888   \n'
+    b'888    888   X88K   888    888 .d888888 888  888  888 88888888 d88P"      888    888 d88P"        888   \n'
+    b'Y88b  d88P .d8""8b. Y88b  d88P 888  888 888  888  888 Y8b.     888"       Y88b  d88P 888"         888   \n'
+    b' "Y8888P"  888  888  "Y8888P88 "Y888888 888  888  888  "Y8888  888888888   "Y8888P"  888888888  8888888 \n'
+    b'                                                                                                        \n'
+    b'                                                                                                        \n'
+    b'                                                                                                        \n'
+    b'8888888b.                       888 d8b          888               d888                                 \n'
+    b'888   Y88b                      888 Y8P          888              d8888                                 \n'
+    b'888    888                      888              888                888                                 \n'
+    b'888   d88P 888d888 .d88b.   .d88888 888  .d8888b 888888             888                                 \n'
+    b'8888888P"  888P"  d8P  Y8b d88" 888 888 d88P"    888                888                                 \n'
+    b'888        888    88888888 888  888 888 888      888                888                                 \n'
+    b'888        888    Y8b.     Y88b 888 888 Y88b.    Y88b.              888                                 \n'
+    b'888        888     "Y8888   "Y88888 888  "Y8888P  "Y888           8888888                               \n'
+    b'                                                                                                        \n'
+    b'\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $18 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x36 bytes:
+    b'Sorry,The Right Answer is 758437564470671101638226533\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $17 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x36 bytes:
+    b'Sorry,The Right Answer is 720442534341377739517627612\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $16 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x36 bytes:
+    b'Sorry,The Right Answer is 516851318162940507547427850\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $15 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x36 bytes:
+    b'Sorry,The Right Answer is 555687814606539913606981423\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $14 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x36 bytes:
+    b'Sorry,The Right Answer is 292249511777654992236802129\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $13 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Received 0x36 bytes:
+    b'Sorry,The Right Answer is 295394477691263321888962479\n'
+[DEBUG] Received 0x1b bytes:
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1b bytes:
+    b'94042290233032882298507491\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $12 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'794226764364258276384684571\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $13 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'179255912019505438959358737\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $14 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'462388182009888654429943427\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $15 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'762034689160559745779988933\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $16 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'669646169686876182739593507\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $17 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'355993127476678341856257832\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $18 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1a bytes:
+    b'9632888318799905755122760\n'
+[DEBUG] Received 0x13 bytes:
+    b'You have $19 left.\n'
+[DEBUG] Received 0x28 bytes:
+    b'Guess the next number in decimal format>'
+[DEBUG] Received 0x32 bytes:
+    b'Great!,You Guessed it!\n'
+    b'\n'
+    b'MENU:\n'
+    b'1.Predict\n'
+    b'2.Quit\n'
+    b'\n'
+    b'> '
+[DEBUG] Sent 0x2 bytes:
+    b'1\n'
+[DEBUG] Sent 0x1c bytes:
+    b'198888661646727145368566520\n'
+[DEBUG] Received 0xd bytes:
+    b'Error Input!\n'
+[DEBUG] Received 0xb bytes:
+    b'Quiting...\n'
+[*] Closed connection to 47.101.38.213 port 60709
